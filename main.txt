@@ -4,3 +4,8 @@ html
 css
 php
 r
+c++
+c
+cobol
+perl
+ruby
